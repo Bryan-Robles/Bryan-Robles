@@ -1,34 +1,50 @@
-# Hola, soy Bryan Robles 👋
+# Hi, I'm Bryan Robles 👋
 
-Estudiante de **Ingeniería de Sistemas** en la Universidad del Magdalena (Santa Marta, Colombia).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bryan--robles--ing-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-robles-ing/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryan--robles.github.io-222?logo=githubpages&logoColor=white)](https://bryan-robles.github.io)
 
-Me interesa el desarrollo **backend con Java y Spring Boot**, las aplicaciones web full stack y la seguridad de aplicaciones. Me gusta dejar los proyectos ejecutables con un comando, con tests y CI, y documentados.
+**Systems Engineering student** at Universidad del Magdalena (Santa Marta, Colombia), focused on **backend development with Java and Spring Boot**, full-stack web applications and application security.
 
-## Proyectos destacados
+I care about shipping projects that run with one command, with tests, CI and clear documentation.
 
-| Proyecto | Qué es | Stack |
+*[Versión en español más abajo](#-español)*
+
+## Featured projects
+
+| Project | What it is | Stack |
 | --- | --- | --- |
-| [**Samaria360**](https://github.com/Al3jooo/Samaria360) | Plataforma de turismo de Santa Marta (Capstone, RUP): cinco microservicios hexagonales detrás de un API Gateway, con eventos asíncronos por RabbitMQ. Principal contribuidor (46 de 77 PRs): microservicios de reservas, catálogo, analítica y chatbot, gateway, frontend, infraestructura y pruebas de los RNF. | Java 17 · Spring Boot · Spring Cloud Gateway · RabbitMQ · PostgreSQL · MongoDB · React · Docker · k6 |
-| [**logistics-packages**](https://github.com/Bryan-Robles/logistics-packages) | Sistema de gestión logística: admisión, pesaje, almacenaje, clasificación y novedades de paquetes, integrado por colas con otros módulos. | Java 21 · Spring Boot (hexagonal) · React · TypeScript · PostgreSQL · AWS SQS/S3 · Docker · GitHub Actions |
-| [**ecocompost-iot**](https://github.com/Bryan-Robles/ecocompost-iot) | Monitoreo IoT de una compostera doméstica: API con motor de diagnóstico y dashboard web, con datos simulados por el mismo contrato que usaría un ESP32. | Spring Boot · React · Vite · TypeScript · H2 |
-| [**proyecto-final-he**](https://github.com/Bryan-Robles/proyecto-final-he) | Proyecto de hacking ético: análisis, explotación y mitigación de 4 vulnerabilidades OWASP Top 10 sobre OWASP NodeGoat. Mi parte fue la inyección NoSQL. | Node.js · MongoDB · Docker · OWASP |
+| [**Samaria360**](https://github.com/Al3jooo/Samaria360) | Tourism platform for Santa Marta (capstone, RUP): five hexagonal microservices behind an API gateway, with asynchronous events over RabbitMQ. **Top contributor (46 of 77 PRs):** booking, catalog, analytics and chatbot services, gateway, frontend, infrastructure and non-functional requirement testing. | Java 17 · Spring Boot · Spring Cloud Gateway · RabbitMQ · PostgreSQL · MongoDB · React · Docker · k6 |
+| [**logistics-packages**](https://github.com/Bryan-Robles/logistics-packages) | Logistics management system: package intake, weighing, storage, sorting and incident handling, integrated with other modules through message queues. | Java 21 · Spring Boot (hexagonal) · React · TypeScript · PostgreSQL · AWS SQS/S3 · Docker · GitHub Actions |
+| [**ecocompost-iot**](https://github.com/Bryan-Robles/ecocompost-iot) | IoT monitoring for a home composter: API with a diagnosis engine and a web dashboard, fed by simulated sensor data over the same contract an ESP32 would use. | Spring Boot · React · Vite · TypeScript · H2 |
+| [**proyecto-final-he**](https://github.com/Bryan-Robles/proyecto-final-he) | Ethical hacking project: analysis, exploitation and mitigation of 4 OWASP Top 10 vulnerabilities in OWASP NodeGoat. My part: NoSQL injection. | Node.js · MongoDB · Docker · OWASP |
 
-## Tecnologías
+## Tech stack
 
-**Lenguajes:** Java · TypeScript · JavaScript · SQL · C++
+**Languages:** Java · TypeScript · JavaScript · SQL · C++
 
-**Backend:** Spring Boot · Spring Security (JWT) · Spring Data JPA / MongoDB · Spring Cloud Gateway · Flyway · REST · microservicios
+**Backend:** Spring Boot · Spring Security (JWT) · Spring Data JPA / MongoDB · Spring Cloud Gateway · Flyway · REST · microservices
 
 **Frontend:** React · TanStack · Vite · Tailwind CSS
 
-**Datos y mensajería:** PostgreSQL · MongoDB · SQL Server · RabbitMQ · AWS SQS/S3 (LocalStack)
+**Data & messaging:** PostgreSQL · MongoDB · SQL Server · RabbitMQ · AWS SQS/S3 (LocalStack)
 
-**Infraestructura:** Docker · Docker Compose · nginx · GitHub Actions
+**Infrastructure:** Docker · Docker Compose · nginx · GitHub Actions
 
-**Calidad:** JUnit · Mockito · Testcontainers · ArchUnit · Vitest · k6 · ESLint
+**Quality:** JUnit · Mockito · Testcontainers · ArchUnit · Vitest · k6 · ESLint
 
-**Seguridad:** OWASP Top 10 · pruebas de inyección y control de acceso
+**Security:** OWASP Top 10 · injection and access control testing
 
-## Contacto
+---
 
-🌐 [bryan-robles.github.io](https://bryan-robles.github.io)
+## 🇪🇸 Español
+
+Estudiante de **Ingeniería de Sistemas** en la Universidad del Magdalena (Santa Marta, Colombia), enfocado en **desarrollo backend con Java y Spring Boot**, aplicaciones web full stack y seguridad de aplicaciones. Me gusta entregar proyectos que se ejecutan con un comando, con tests, CI y buena documentación.
+
+**Proyectos destacados**
+
+- **[Samaria360](https://github.com/Al3jooo/Samaria360):** plataforma de turismo de Santa Marta con cinco microservicios hexagonales, API Gateway y eventos por RabbitMQ. Principal contribuidor (46 de 77 PRs).
+- **[logistics-packages](https://github.com/Bryan-Robles/logistics-packages):** sistema de gestión logística con Spring Boot hexagonal, React, colas SQS, Docker y CI.
+- **[ecocompost-iot](https://github.com/Bryan-Robles/ecocompost-iot):** monitoreo IoT de una compostera con API Spring Boot y dashboard React.
+- **[proyecto-final-he](https://github.com/Bryan-Robles/proyecto-final-he):** explotación y mitigación de vulnerabilidades OWASP Top 10 sobre NodeGoat.
+
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/bryan-robles-ing/) · [Portafolio](https://bryan-robles.github.io)
