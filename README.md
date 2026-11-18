@@ -36,7 +36,9 @@ I build APIs and backend systems with clean architecture, automated tests and Do
 </p>
 
 **Testing & quality:** JUnit · Mockito · Testcontainers · ArchUnit · Vitest · k6
+
 **Architecture:** hexagonal · microservices · event-driven messaging · REST · JWT
+
 **Security:** OWASP Top 10 · injection and access control testing
 
 ---
