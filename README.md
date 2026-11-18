@@ -8,6 +8,7 @@ Systems Engineering student · Universidad del Magdalena · Santa Marta, Colombi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-robles-ing/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryan-robles.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://bryan-robles.github.io/cv/Bryan-Robles-CV-EN.pdf)
 
 *[Versión en español](#-español)*
 
@@ -41,6 +42,14 @@ I build APIs and backend systems with clean architecture, automated tests and Do
 
 **Security:** OWASP Top 10 · injection and access control testing
 
+## Certifications
+
+Cisco Networking Academy: **Network Defense** (Nov 2026) · **Endpoint Security** (Oct 2026) · **Introduction to Cybersecurity** (Aug 2026)
+
+## Education
+
+**Systems Engineering**, Universidad del Magdalena · 2023 – present · Expected graduation: second half of 2027
+
 ---
 
 ## 🇪🇸 Español
@@ -56,4 +65,8 @@ Construyo APIs y sistemas backend con arquitectura limpia, pruebas automatizadas
 - **[ecocompost-iot](https://github.com/Bryan-Robles/ecocompost-iot):** monitoreo IoT de una compostera con API Spring Boot y dashboard React.
 - **[proyecto-final-he](https://github.com/Bryan-Robles/proyecto-final-he):** explotación y mitigación de vulnerabilidades OWASP Top 10 sobre NodeGoat.
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/bryan-robles-ing/) · [Portafolio](https://bryan-robles.github.io)
+**Certificaciones:** Cisco Networking Academy: Defensa de la red, Seguridad de Terminales e Introducción a Ciberseguridad (2026).
+
+**Formación:** Ingeniería de Sistemas, Universidad del Magdalena · grado previsto 2027-2.
+
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/bryan-robles-ing/) · [Portafolio](https://bryan-robles.github.io) · [Hoja de vida (PDF)](https://bryan-robles.github.io/cv/Bryan-Robles-CV-ES.pdf)
