@@ -8,6 +8,7 @@ Systems Engineering student · Universidad del Magdalena · Santa Marta, Colombi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-robles-ing/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=githubpages&logoColor=white)](https://bryan-robles.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:branromo08@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://bryan-robles.github.io/cv/Bryan-Robles-CV-EN.pdf)
 
 *[Versión en español](#-español)*
@@ -69,4 +70,4 @@ Construyo APIs y sistemas backend con arquitectura limpia, pruebas automatizadas
 
 **Formación:** Ingeniería de Sistemas, Universidad del Magdalena · grado previsto 2027-2.
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/bryan-robles-ing/) · [Portafolio](https://bryan-robles.github.io) · [Hoja de vida (PDF)](https://bryan-robles.github.io/cv/Bryan-Robles-CV-ES.pdf)
+**Contacto:** [branromo08@gmail.com](mailto:branromo08@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bryan-robles-ing/) · [Portafolio](https://bryan-robles.github.io) · [Hoja de vida (PDF)](https://bryan-robles.github.io/cv/Bryan-Robles-CV-ES.pdf)
